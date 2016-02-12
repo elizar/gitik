@@ -1,0 +1,2 @@
+# gitik
+Daily github reporting
