@@ -2,6 +2,7 @@
 Daily github reporting
 
 ### Sample
+
 ```
 Github Report for Febuary 12, 2016
 
@@ -21,7 +22,6 @@ Github Report for Febuary 12, 2016
 | Commits        | PRs       | Merged PRs |
 +----------------+-----------+------------+
 ```
-
 ### Contribute
 
 Please contribute...
